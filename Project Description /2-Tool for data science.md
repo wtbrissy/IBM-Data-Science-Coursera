@@ -56,7 +56,7 @@
 - KNIME
 - Orange 
 
-# 4. Commercial Tools for Data Science 
+## Commercial Tools for Data Science 
 
 ### Data Management 
 - Oracle Database 
@@ -87,7 +87,7 @@
 - Watson Studio 
 - H2O.ai 
 
-# 5. Cloud Based Tools for Data Science 
+## Cloud Based Tools for Data Science 
 
 ### Fully Integrated Visual Tool 
 - Watson Studio 
