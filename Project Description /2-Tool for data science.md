@@ -1,7 +1,7 @@
 # Open Source Tools for Data Science 
 
 ## Categories of Data Science Tools 
-![](https://github.com/wtbrissy/IBM-Data-Science-Certifcate-Course/blob/Draft/image%20/Categories%20of%20Data%20Science%20Tools%20.png)
+![](https://github.com/wtbrissy/IBM-Data-Science-Coursera/blob/draft/Project%20Description%20/image%20/Categories%20of%20Data%20Science%20Tools%20.png)
 
 ### Data Management 
 - Relational databases: MySQL , and PosstgreSQL
