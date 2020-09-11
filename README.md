@@ -20,6 +20,8 @@ The projects can be found in [Project Summary](), which incldues random album ge
 This project would provide IBM Data Science Professional Certificate, and also help me to build-up my frist Data Science portfolio. 
 
 ## Project Description <a name="description"></a>
+[Chapter 1 - What is Data Science](https://github.com/wtbrissy/IBM-Data-Science-Coursera/blob/draft/Project%20Description%20/1-What%20is%20data%20science.md)
+[Chapter 2 - Tools for Data Science](https://github.com/wtbrissy/IBM-Data-Science-Coursera/blob/draft/Project%20Description%20/2-Tool%20for%20data%20science.md)
 
 ## Project Summary <a name="summary"></a>
 
