@@ -26,6 +26,6 @@ This project would provide IBM Data Science Professional Certificate, and also h
 
 ## Project Summary <a name="summary"></a>
 
-## Licensing, Authors, Acknowledges <a name="licensing></a>
+## Licensing, Authors, Acknowledges <a name="licensing"></a>
 The data used for the analysis comes form Coursera in cooperation with IBM. Most of the infomation in the markdown cells was provided by Coursera and is subject to their [licesing](https://www.coursera.org/about/terms). 
 
