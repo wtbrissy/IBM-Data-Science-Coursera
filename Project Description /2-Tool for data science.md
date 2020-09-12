@@ -1,10 +1,16 @@
 # Data Science Tools 
 
 * [Open Source Tools for Data Science](#opensource)
+  * [Data Intergration and Transformation](#integration)
+  * [Code Asset Management](#codeasset)
+  * [Development Environments](#environment)
 * [Commercial Tools for Data Science](#commercial)
 * [Cloud Based Tools for Data Science](#cloud)
 * [Packages, APIs, Data Set and Models](#api)
+  * [Libraries for Data Science](#ibraries)
 * [Data Set](#datasets)
+  * [Open data sources](#opensources)
+* [Machine Learning Models](#models)
 
 ## Categories of Data Science Tools <a name="categories"></a>
 ![](https://github.com/wtbrissy/IBM-Data-Science-Coursera/blob/draft/Project%20Description%20/image%20/Categories%20of%20Data%20Science%20Tools%20.png)
@@ -17,7 +23,7 @@
 - File-based: Hadoop File System, Ceph
 - Text-data and creating a search index: Elasticsearch 
 
-### Data Integration and Transformation 
+### Data Integration and Transformation <a name="integration"></a>
 *ELT - Extra, Load and Transformed* or *data refinery and cleansing*
 - Apache AirFlow: AibBNB
 - Kubeflow: Execute data science pipelines on top of Kubernetes  
@@ -41,7 +47,7 @@
 - IBM Adversarial Robustness 360 Toolbox 
 - IBM Ai Explainability 360
 
-### Code Asset Management 
+### Code Asset Management <a name="codeasset"></a>
 - Git 
 - Github 
 - GitLab 
@@ -50,7 +56,7 @@
 - Egeria  
 - Kylo 
 
-### Development Environments 
+### Development Environments <a name="environment"></a>
 - Jupyter notebooks
 - Jupyter lab 
 - Apache Zeppeline 
@@ -121,7 +127,7 @@
 
 ## Packages, APIs, Data Sets and Models <a name="apis"></a>
 
-### Libraries for Data Science 
+### Libraries for Data Science <a name="libraries"></a>
 #### Python 
 - Scientifics computing 
 - Pandas - Data structures & tools 
@@ -160,7 +166,7 @@
 
 *image: REST APIs* 
 
-## Data Sets(#datasets) <a name="datasets"></a>
+## Data Sets <a name="datasets"></a>
 
 - Collection data 
 - Data structures 
@@ -182,7 +188,7 @@
 - Companies
 - Publicly available 
   
-#### Open data sources
+#### Open data sources <a name="opensources"></a>
 - [Open data portal lists](http://datacatalogs.org)
 - Governmental, intergovernmental, and organisation websites:
 - [United Nations](http://data.un.org)
@@ -196,7 +202,7 @@
 - CDLA-Sharing: Permission to use and modify data; publication only under same terms 
 - CDLA-Permissive: Permission to use and modify data; no obligations 
 
-## Machine Learning Models(#models)<a name="models"></a>
+## Machine Learning Models <a name="models"></a>
 
 - Data can contain a wealth of information 
 - Machine Learning models identify patterns in data 
