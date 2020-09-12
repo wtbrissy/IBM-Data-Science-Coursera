@@ -7,7 +7,7 @@
 * [Commercial Tools for Data Science](#commercial)
 * [Cloud Based Tools for Data Science](#cloud)
 * [Packages, APIs, Data Set and Models](#api)
-  * [Libraries for Data Science](#ibraries)
+  * [Libraries for Data Science](#libraries)
 * [Data Set](#datasets)
   * [Open data sources](#opensources)
 * [Machine Learning Models](#models)
