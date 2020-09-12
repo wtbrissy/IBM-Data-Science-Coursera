@@ -1,6 +1,8 @@
 # IBM Data Science Professional Certificate
 
-This is the studying note for IBM Data Science Professional Certificate deliveried on Coursera platform. 
+This is the studying note for [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) course on Coursera.
+
+Welcome to leave comments, make pull requests and fork.
 
 ## Table of Contents 
 * [Introductory](#Introductory)
@@ -10,14 +12,14 @@ This is the studying note for IBM Data Science Professional Certificate deliveri
 * [Licensing, Authors, Acknowledgement](#licensing)
 
 ## Instroductory
-This IBM Professional Certificate is offering 9 courses to help career-releant data science and machine learning skills Development.
+This IBM Professional Certificate offers 9 courses to help career-relevant  data science and machine learning skills development.
 
 Several tools and libraries have been applied through the courses. The tools includs *Jupyter/JupyterLab*, *Github*, *R Studio*, and *Watson Studio*, and the libraries include *Pandas*, *NumPy*, *Matplotlib*, *Seaborn*, *Folium*, *ipyhton-sql*, *Scikit-learn*, and *ScipPy*, etc. 
 
 The projects can be found in [Project Summary](), which incldues random album generator, predict housing prices, best classifier model, battle of neighborhoods. 
 
 ## Project Motivation <a name="motivation"></a>
-This project would provide IBM Data Science Professional Certificate, and also help me to build-up my frist Data Science portfolio. 
+This project provides IBM Data Science Professional Certificate, and also helps me to be able to establish my frist project portfolio of data science.
 
 ## Project Description <a name="description"></a>
 [Chapter 1 - What is Data Science](https://github.com/wtbrissy/IBM-Data-Science-Coursera/blob/draft/Project%20Description%20/1-What%20is%20data%20science.md)
