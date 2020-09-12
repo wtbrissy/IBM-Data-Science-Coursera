@@ -16,7 +16,7 @@ This IBM Professional Certificate offers 9 courses to help in developing career-
 
 Several tools and libraries have been applied through the courses. The tools includs *Jupyter/JupyterLab*, *Github*, *R Studio*, and *Watson Studio*, and the libraries include *Pandas*, *NumPy*, *Matplotlib*, *Seaborn*, *Folium*, *ipyhton-sql*, *Scikit-learn*, and *ScipPy*. 
 
-The detail of each course can be found in [Project Description](#description) . You can get access to the project codes [here](), and the findings, including random album generator, predict housing prices, best classifier model, battle of neighborhoods, have been publised on my [Medium](https://medium.com/@winston.liang). 
+The detail of each course can be found in *[Project Description](#description)*. You can get access to the project codes *[here]()*, and the findings, including random album generator, predict housing prices, best classifier model, battle of neighborhoods, have been publised on my *[Medium](https://medium.com/@winston.liang)*. 
 
 ## Project Motivation <a name="motivation"></a>
 This project provides IBM Data Science Professional Certificate, and also helps me to establish my frist project portfolio of data science.
