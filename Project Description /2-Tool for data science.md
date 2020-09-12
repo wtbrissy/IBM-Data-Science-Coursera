@@ -4,6 +4,7 @@
 * [Commercial Tools for Data Science](#commercial)
 * [Cloud Based Tools for Data Science](#cloud)
 * [Packages, APIs, Data Set and Models](#api)
+* [Data Set](#datasets)
 
 ## Categories of Data Science Tools <a name="categories"></a>
 ![](https://github.com/wtbrissy/IBM-Data-Science-Coursera/blob/draft/Project%20Description%20/image%20/Categories%20of%20Data%20Science%20Tools%20.png)
@@ -159,6 +160,69 @@
 
 *image: REST APIs* 
 
+## Data Sets(#datasets) <a name="datasets"></a>
 
+- Collection data 
+- Data structures 
+- Tabular data 
+- Hierarchical data
+- Network data 
+- Raw files 
+  
+### Data ownership 
+#### Private data 
+- Confidential 
+- Private or personal information 
+- Commercially sensitive 
+  
+#### Open data 
+- Scientific institutions
+- Governments
+- Organizations
+- Companies
+- Publicly available 
+  
+#### Open data sources
+- [Open data portal lists](http://datacatalogs.org)
+- Governmental, intergovernmental, and organisation websites:
+- [United Nations](http://data.un.org)
+- [USA](https://www.data.gov)
+- [Europe](https://www.europeandataprotal.eu/en)
+- [Kaggle](https://www.kaggle.com/datasets)
+- [Google data set search](https://datasetsearch.research.google.com) 
+  
+#### Community Data License Agreement 
+- [A Linux Foundation Project](http://cdla.io)
+- CDLA-Sharing: Permission to use and modify data; publication only under same terms 
+- CDLA-Permissive: Permission to use and modify data; no obligations 
+
+## Machine Learning Models(#models)<a name="models"></a>
+
+- Data can contain a wealth of information 
+- Machine Learning models identify patterns in data 
+- A model must be trained on data before it can be used to make predictions 
+
+### Supervised Learning 
+- data is labeled and model trained to make correct predictions 
+- Regression 
+	- Predict real numerical values 
+- Classification 
+	- Classify things into categories 
+
+### Unsupervised Learning 
+- data is not labeled 
+- Model tries to identify patterns without external help 
+- Common learning problems: clustering and anomaly detection 
+
+### Reinforcement Learning 
+- Conceptually similar to human learning process 
+
+## Deep Learning 
+- Tries to loosely emulate how the human brain works 
+- Applications: 
+	- Natural language Processing 
+	- Image, audio, and video analysis 
+	- Time sergers forecasting 
+- requires typically very large datasets of labeled data and is compute intensive 
 
 
