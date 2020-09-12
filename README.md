@@ -23,12 +23,6 @@ This project would provide IBM Data Science Professional Certificate, and also h
 [Chapter 1 - What is Data Science](https://github.com/wtbrissy/IBM-Data-Science-Coursera/blob/draft/Project%20Description%20/1-What%20is%20data%20science.md)
 
 [Chapter 2 - Tools for Data Science](https://github.com/wtbrissy/IBM-Data-Science-Coursera/blob/draft/Project%20Description%20/2-Tool%20for%20data%20science.md)
-  * [Open Source Tools for Data Science](#opensource)
-  * [Commercial Tools for Data Science](#commercial)
-  * [Cloud Based Tools for Data Science](#cloud)
-  * [Packages, APIs, Data Set and Models](#api)
-  * [Data Set](#datasets)
-  * [Machine Learning Models](#models)
 
 ## Project Summary <a name="summary"></a>
 
