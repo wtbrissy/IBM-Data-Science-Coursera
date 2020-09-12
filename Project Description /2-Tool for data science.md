@@ -1,8 +1,9 @@
 # Data Science Tools 
 
 * [Open Source Tools for Data Science](#opensource)
-* [Commercial Tools for Data Science](#commercial)\
+* [Commercial Tools for Data Science](#commercial)
 * [Cloud Based Tools for Data Science](#cloud)
+* [Packages, APIs, Data Set and Models](#api)
 
 ## Categories of Data Science Tools <a name="categories"></a>
 ![](https://github.com/wtbrissy/IBM-Data-Science-Coursera/blob/draft/Project%20Description%20/image%20/Categories%20of%20Data%20Science%20Tools%20.png)
@@ -141,17 +142,21 @@
 - Keras 
 - TensorFlow 
 
-### Application Programming Interfaces (API)
+### Application Programming Interfaces (API) <a name="api"></a>
 - What is an API 
 - An API lets two pieces of software talk to each other 
 - API Libraries : API can be multiple different languages, e.g. python, JS, C++. Java, GO, Julia, Matlab, and R, etc. 
-![](Packages,%20APIs,%20Data%20Sets%20and%20Models/F843B0C2-D295-43C1-81DA-9490A997199E.png)
+  
+![](https://github.com/wtbrissy/IBM-Data-Science-Coursera/blob/draft/Project%20Description%20/image%20/APIs.png)
+
 *image: API* 
 - REST APIs: they enable you to communicate using the internet, taking advantage of storage, greater data access, artificial intelligence algorithms, and many other resources. 
 - RE: Representational 
 - S: State
 - T: Transfer 
-![](Packages,%20APIs,%20Data%20Sets%20and%20Models/50B46F90-ED4D-4052-8951-561408882ABD.png)
+- 
+![](https://github.com/wtbrissy/IBM-Data-Science-Coursera/blob/draft/Project%20Description%20/image%20/REST%20APIs.png)
+
 *image: REST APIs* 
 
 
