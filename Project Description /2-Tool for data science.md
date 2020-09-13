@@ -11,6 +11,7 @@
 * [Data Set](#datasets)
   * [Open data sources](#opensources)
 * [Machine Learning Models](#models)
+* [Git & GitHub](#git)
 
 ## Categories of Data Science Tools <a name="categories"></a>
 ![](https://github.com/wtbrissy/IBM-Data-Science-Coursera/blob/draft/Project%20Description%20/image%20/Categories%20of%20Data%20Science%20Tools%20.png)
@@ -231,4 +232,42 @@
 	- Time sergers forecasting 
 - requires typically very large datasets of labeled data and is compute intensive 
 
+# Git/Github <a name="git"></a>
+#Studying/datascience
 
+## Version Control 
+ **Git** 
+- Free and open source software 
+- Distributed version control system 
+- Accessible anywhere in the world 
+- One of the most common version control systems
+- Version control images, documents, etc 
+**GitHub** 
+**GitLab**
+**Bitbucket** 
+**Beanstalk** 
+
+## SHORT Glossary of Terms 
+- SSH protocol : A method for secure remote login form one computer to another 
+- Repository: The folders of your project that are set up for version control 
+- Fork : A copy of a repository 
+- Pull request: The process you use the request that someone reviews and approves your changes before they become final 
+- Working directory: A directory on your file system, including its files and subdirectories, that is associated with a git repository. 
+
+## Basic Git Commands 
+- init: push to GitHub, or cloning an exisiting repository 
+- add: moves changes form the working directory to the staging area 
+- status: see the state of working directories, and the staged of snapshot  of the changes 
+- commit : commits the changes to the project 
+- reset : undoes changes 
+- log: browse previous changes 
+- branch: created an isolated environment 
+- checkout : see and changing existing branches 
+- merge: put everything back together 
+
+## Learning Git & GitHub
+[GitHub - IBM/skillsnetwork](https://github.com/IBM/skillsnetwork)
+Learning by reading - [Git Handbook · GitHub Guides](https://guides.github.com/introduction/git-handbook/)
+Cheat Sheets - [Git Cheat Sheets - GitHub Cheatsheets](https://training.github.com)
+Learning Git branching - [Learn Git Branching](https://learngitbranching.js.org)
+Visulizaing Git - [Visualizing Git](http://git-school.github.io/visualizing-git/)
