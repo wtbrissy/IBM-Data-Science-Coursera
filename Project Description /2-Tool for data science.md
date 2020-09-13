@@ -233,7 +233,6 @@
 - requires typically very large datasets of labeled data and is compute intensive 
 
 # Git/Github <a name="git"></a>
-#Studying/datascience
 
 ## Version Control 
  **Git** 
@@ -266,8 +265,8 @@
 - merge: put everything back together 
 
 ## Learning Git & GitHub
-[GitHub - IBM/skillsnetwork](https://github.com/IBM/skillsnetwork)
-Learning by reading - [Git Handbook · GitHub Guides](https://guides.github.com/introduction/git-handbook/)
-Cheat Sheets - [Git Cheat Sheets - GitHub Cheatsheets](https://training.github.com)
-Learning Git branching - [Learn Git Branching](https://learngitbranching.js.org)
-Visulizaing Git - [Visualizing Git](http://git-school.github.io/visualizing-git/)
+- [GitHub - IBM/skillsnetwork](https://github.com/IBM/skillsnetwork)
+- Learning by reading - [Git Handbook · GitHub Guides](https://guides.github.com/introduction/git-handbook/)
+- Cheat Sheets - [Git Cheat Sheets - GitHub Cheatsheets](https://training.github.com)
+- Learning Git branching - [Learn Git Branching](https://learngitbranching.js.org)
+- Visulizaing Git - [Visualizing Git](http://git-school.github.io/visualizing-git/)
