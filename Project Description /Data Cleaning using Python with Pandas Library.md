@@ -1,4 +1,4 @@
-# Extra Readning - Data Cleaning using Python with Pandas Library 
+# Extra Reading - Data Cleaning using Python with Pandas Library 
 ## Step 1: Import the required libraries 
 ```
 import pandas as pd
