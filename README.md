@@ -26,6 +26,8 @@ This project provides IBM Data Science Professional Certificate, and also helps 
 
 [Chapter 2 - Tools for Data Science](https://github.com/wtbrissy/IBM-Data-Science-Coursera/blob/draft/Project%20Description%20/2-Tool%20for%20data%20science.md)
 
+[Chapter 3 - Data Science Methodologies](https://github.com/wtbrissy/IBM-Data-Science-Coursera/blob/draft/Project%20Description%20/3-%20Data%20Science%20Methodologies.md)
+
 ## Project Summary <a name="summary"></a>
 
 ## Licensing, Authors, Acknowledges <a name="licensing"></a>
