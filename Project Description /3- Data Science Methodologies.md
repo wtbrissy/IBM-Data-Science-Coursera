@@ -31,6 +31,17 @@
 - Case studying - From Requirement to Collection  
 <a href='3-%20Data%20Science%20Methodologies/DS0103EN-1-1-1-From-Problem-to-Approach-v2.0.pdf'>DS0103EN-1-1-1-From-Problem-to-Approach-v2.0.pdf</a>
 
+### Modeling
+Model evaluation has two main phases
+- a diagnostic measures phase
+- statistical significance testing 
 
+### Deployment 
+- Assimilate knowledge for business 
+
+### Feedback 
+- Define review process 
+- Refine model 
+- Review and refine intervention actions 
 
 
